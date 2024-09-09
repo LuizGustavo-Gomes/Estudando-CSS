@@ -1,3 +1,12 @@
+/*Para podermos usar o CSS criamos um arquivo chamado style.css e chamanos ele no index.html através da Tag link.
+Dentro dele chamamos a parte do html que queremos estilizar e abrimos uma chave, dentro da chave nos escrevemos
+os codigos de personalização/estilo do documento. 
+Ex.: header {
+    background-color: #333;
+    color: #fff;
+} 
+*/
+
 header {
     background-color: #333;
     color: #fff;
